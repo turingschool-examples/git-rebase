@@ -1,2 +1,2 @@
-class Model
+class Item < ActiveRecord::Base
 end
